@@ -1,1 +1,1 @@
-# Lab-7
+In this lab, I implemented a Logistic Regression model to handle a classification task. The work involved exploring the dataset, handling missing values, and converting categorical data into a format suitable for the model. I used Scikit-Learn to train the classifier and evaluated its effectiveness using a Confusion Matrix and a Classification Report to measure accuracy and precision.
